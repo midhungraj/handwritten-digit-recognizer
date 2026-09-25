@@ -4,6 +4,7 @@
 A simple Convolutional Neural Network built with **PyTorch** to classify handwritten digits from the **MNIST dataset**.
 
 ## App
+<img width="439" height="516" alt="image" src="https://github.com/user-attachments/assets/d1f93fd5-174f-4bb9-a02a-398cd9c5ab92" />
 
 ## Run
 
