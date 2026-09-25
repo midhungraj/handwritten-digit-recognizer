@@ -17,7 +17,7 @@ python train.py
 Run prediction:
 
 ```bash
-python predict.py
+python digit_app.py
 ```
 
 ## Dataset
